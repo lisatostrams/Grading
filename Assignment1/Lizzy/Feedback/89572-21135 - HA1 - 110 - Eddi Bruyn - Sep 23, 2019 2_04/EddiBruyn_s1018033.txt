@@ -1,0 +1,42 @@
+89572-21135
+
+Group: 110
+Submitted: Sep 23, 2019 2_04
+
+Graded by: Lizzy
+For questions or remarks, please email <l.grootjen@student.ru.nl>
+
+
+Feedback:
+There are 8 unexecuted codecells with code in the source: -1.0 points
+
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 37 : In practice, applying PCA comes down to a series of matrix operations, this is useful, as matrix ope ... 
+
+There are 6 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 39 : b'> d. (1 point) Alternatively, one could use EigenValue Decomposition, EVD, instead of SVD. What are ' ... 
+	 cell 46 : b'The columns of **V** indicate the exact projection of the data onto the PCs. In a way, a PC is nothi' ... 
+	 cell 47 : b'The columns of **V** indicate the exact projection of the data onto the PCs. In a way, a PC is nothi' ... 
+	 cell 50 : b'## 1.3 Similarity measures\n\nWe will use a subset of the data on wild faces described by Berg in 2005' ... 
+	 cell 53 : b'\n> b) (0.75 points) We will investigate how scaling and translation impact the following three\nsimil' ... 
+	 cell 54 : b'---\n\n_write your answer to 1.3.1 here_\nWhat I found out is that all of the statements are correct ex' ... 
+
+Assignment 1.1 (2.45)/2.75pts 
+Assignment 1.1.1 (1.20)/1.5pts 
+a) empty  -0.30
+Assignment 1.1.2 (1.25)/1.25pts 
+
+Assignment 1.2 (4.88)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (4.38)/5.5pts 
+a) missing important terms from explanation: linear  -0.12
+b) missing important terms from explanation: explain  -0.25
+d) missing important terms from explanation: eigenvector  -0.25
+c) didn't use the following commands (which is very suspicious): np.dot   -0.50
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 7.32

@@ -1,0 +1,37 @@
+89770-21136
+
+Group: 108
+Submitted: Oct 7, 2019 0_16
+
+Graded by: Stijn
+For questions or remarks, please email <A.A.deBoer@student.ru.nl>
+
+
+Feedback:
+There are 2 cells that include more plots than titles/labels: -0.50
+Please check the codecells belonging to the following questions:
+	 cell 9 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 11 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 2.67/4.5 pts
+2.1.1.a 1.50/3 pts
+<possibly> Not enough histograms/boxplots -1.50
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.67/1 pts
+Missing important/suspicious terms from explanation: [alcohol density]  -0.33
+
+2.2 Total: 3.27/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+
+2.3 Total: 1.05/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.15/0.3 pts
+Did not list (all) means. Missing from output: [2.5 4.0 5.0 6.5 10.0 4.5 5.5 7.0 10.5 7.0 8.5 12.0 9.5 13.0 14.5 4.75 5.5 7.25 6.0 7.75 8.5 6.75 8.5 9.25 9.75 7.0 8.75 9.5 10.0 10.75]   -0.15
+2.3.1.iii: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+
+ <predicted> Grade: 6.49

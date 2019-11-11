@@ -1,0 +1,41 @@
+89538-21135
+
+Group: 76
+Submitted: Sep 22, 2019 21_42
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+There are 1 unexecuted codecells with code in the source: -0.2 points
+
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 43 : PCA attempts to explain as much of the variance in data with as few PCs as possible. The variance ex ... 
+
+There are 2 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 49 : b'The columns of **V** indicate the exact projection of the data onto the PCs. In a way, a PC is nothi' ... 
+	 cell 55 : b'\n> b) (0.75 points) We will investigate how scaling and translation impact the following three\nsimil' ... 
+
+Assignment 1.1 (1.65)/2.75pts 
+Assignment 1.1.1 (0.40)/1.5pts 
+a) empty  -0.30
+b) incorrect  -0.20
+d) incorrect  -0.20
+e) incorrect  -0.20
+g) incorrect  -0.20
+Assignment 1.1.2 (1.25)/1.25pts 
+
+Assignment 1.2 (5.38)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (4.88)/5.5pts 
+a) missing important terms from explanation: variance  -0.12
+b) missing important terms from explanation: explain  -0.25
+d) missing important terms from explanation: square  -0.25
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 7.83

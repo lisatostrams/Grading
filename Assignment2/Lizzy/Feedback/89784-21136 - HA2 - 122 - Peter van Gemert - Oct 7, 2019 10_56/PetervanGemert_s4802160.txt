@@ -1,0 +1,44 @@
+89784-21136
+
+Group: 122
+Submitted: Oct 7, 2019 10_56
+
+Graded by: Lizzy
+For questions or remarks, please email <l.grootjen@student.ru.nl>
+
+
+Feedback:
+There are 5 cells that include more plots than titles/labels: -1.00
+Please check the codecells belonging to the following questions:
+	 cell 7 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 10 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 11 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 12 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 13 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 4.17/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.67/1 pts
+Missing important/suspicious terms from explanation: [acidity density]  -0.33
+
+2.2 Total: 3.64/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+
+2.3 Total: 1.17/1.5 pts
+2.3.1.i: 0.15/0.3 pts
+Missing from output: [5.3]   -0.15
+2.3.1.ii: 0.21/0.3 pts
+Did not list (all) means. Missing from output: [2.5 4.0 5.0 10.0 7.0 7.0 12.0 13.0 4.75 7.25 6.0 7.75 6.75 9.25 9.75 7.0 10.0]   -0.08
+2.3.1.iii: 0.20/0.3 pts
+Missing from output: [3.4]   -0.10
+
+ <predicted> Grade: 7.97

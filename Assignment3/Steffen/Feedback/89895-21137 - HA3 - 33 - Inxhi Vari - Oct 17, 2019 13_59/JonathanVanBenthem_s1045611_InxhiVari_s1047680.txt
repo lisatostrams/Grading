@@ -1,0 +1,15 @@
+89895-21137
+
+Group: 33
+Submitted: Oct 17, 2019 13_59
+
+Graded by: Steffen
+For questions or remarks, please email <S.Ricklin@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 0 : b'# Assignment 3\n\n## Objective of this assignment\nThe objective of this exercise is to become familiar' ... 
+

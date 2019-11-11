@@ -1,0 +1,28 @@
+90029-21137
+
+Group: 167
+Submitted: Oct 21, 2019 9_44
+
+Graded by: Steffen
+For questions or remarks, please email <S.Ricklin@student.ru.nl>
+
+
+Feedback:
+There are 1 unexecuted codecells with code in the source: -0.2 points
+
+There are 2 cells that include more plots than titles/labels: -0.50
+Please check the codecells belonging to the following questions:
+	 cell 12 : ## 3.2 Decision tree pruning using cross-validation
+
+In this exercise we will use cross-validation t ... 
+	 cell 15 : #### 3.2.2
+(1.5 pts) Repeat the exercise above, using 10-fold cross-validation. K-fold cross-validat ... 
+
+There are 5 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 9 : b'#### 3.1.4\n(1 pts) Classify all the wines in the wine data set. What percentage of the wine data is ' ... 
+	 cell 20 : b'#### 3.3.2\n  Load the file `Data/classprobs.xls` using the Pandas `read_excel` function. Inspect the' ... 
+	 cell 25 : b'#### 3.3.4\n(0.5 pts) Compute the AUC scores (area under the curve) of both classifiers using the for' ... 
+	 cell 28 : b'\n#### 3.3.5\n(0.25 pts) Using a threshold of 0.5, translate the probability scores to predicted class' ... 
+	 cell 30 : b'#### 3.3.6\n(1 pts) Create the 2x2 table (or array, or list, or dataframe..) of wrong and correct cla' ... 
+

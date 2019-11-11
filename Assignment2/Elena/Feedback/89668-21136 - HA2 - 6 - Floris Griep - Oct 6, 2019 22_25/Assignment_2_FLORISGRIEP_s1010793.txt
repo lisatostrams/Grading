@@ -1,0 +1,57 @@
+89668-21136
+
+Group: 6
+Submitted: Oct 6, 2019 22_25
+
+Graded by: Elena
+For questions or remarks, please email <E.Kreis@student.ru.nl>
+
+
+Feedback:
+There are 7 cells that include more plots than titles/labels: -1.00
+Please check the codecells belonging to the following questions:
+	 cell 19 : ----
+### Scatter plots between attributes and wine quality
+---- ... 
+	 cell 20 : ----
+### Scatter plots between attributes and wine quality
+---- ... 
+	 cell 27 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 31 : ----
+### Printing 10 digits
+---- ... 
+	 cell 35 : ----
+### Calculating Z
+---- ... 
+	 cell 39 : ----
+### Printing the reconstructed digits 
+---- ... 
+	 cell 41 : ----
+### Printing the ScatterPlots
+---- ... 
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 56 : b'----\n You can see that as the sample size increases the data starts to be more centered around the v' ... 
+
+2.1 Total: 4.08/4.5 pts
+2.1.1.a 3.00/3 pts
+<possibly> Not enough histograms/boxplots -0.00
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.83/1 pts
+Missing important/suspicious terms from explanation: [density]  -0.17
+
+2.2 Total: 2.18/4 pts
+Missing suspicious commands from code: [np.linalg.svd np.dot Axes3D] -1.09
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.20/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+
+ <predicted> Grade: 6.47

@@ -1,0 +1,34 @@
+89725-21136
+
+Group: 63
+Submitted: Oct 7, 2019 10_57
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 4.25/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 1.00/1 pts
+
+2.2 Total: 3.27/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+Missing important/suspicious terms from explanation: [separate]  -0.36
+
+2.3 Total: 1.21/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.21/0.3 pts
+Did not list (all) means. Missing from output: [4.0 5.0 10.0 7.0 7.0 12.0 13.0 4.75 7.25 6.0 7.75 6.75 9.25 9.75 7.0 8.75 10.0 10.75]   -0.09
+2.3.1.iii: 0.10/0.3 pts
+Missing from output: [1.7 3.4]   -0.20
+
+ <predicted> Grade: 8.48

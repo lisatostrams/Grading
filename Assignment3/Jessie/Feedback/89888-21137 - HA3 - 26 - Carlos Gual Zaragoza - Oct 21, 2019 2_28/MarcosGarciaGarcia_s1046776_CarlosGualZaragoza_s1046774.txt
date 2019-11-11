@@ -1,0 +1,17 @@
+89888-21137
+
+Group: 26
+Submitted: Oct 21, 2019 2_28
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+
+There are 3 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 29 : b'#### 3.3.4\n(0.5 pts) Compute the AUC scores (area under the curve) of both classifiers using the for' ... 
+	 cell 32 : b'\n#### 3.3.5\n(0.25 pts) Using a threshold of 0.5, translate the probability scores to predicted class' ... 
+	 cell 34 : b'#### 3.3.6\n(1 pts) Create the 2x2 table (or array, or list, or dataframe..) of wrong and correct cla' ... 
+

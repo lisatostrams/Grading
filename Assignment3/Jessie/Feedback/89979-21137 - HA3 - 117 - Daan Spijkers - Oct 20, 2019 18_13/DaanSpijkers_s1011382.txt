@@ -1,0 +1,28 @@
+89979-21137
+
+Group: 117
+Submitted: Oct 20, 2019 18_13
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+
+3.1 Total: 3.42/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.42/0.50 pts
+Missing term from explanation <sulphates> -0.08
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 3.00/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 1.00/1.00 pts
+
+ <predicted> Grade: 9.92

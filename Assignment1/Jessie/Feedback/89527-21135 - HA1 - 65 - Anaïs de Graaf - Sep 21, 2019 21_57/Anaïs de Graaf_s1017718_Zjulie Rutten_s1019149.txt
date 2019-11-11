@@ -1,0 +1,36 @@
+89527-21135
+
+Group: 65
+Submitted: Sep 21, 2019 21_57
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+There are 7 unexecuted codecells with code in the source: -1.0 points
+
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 37 : In practice, applying PCA comes down to a series of matrix operations, this is useful, as matrix ope ... 
+
+There are 2 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 45 : b'The columns of **V** indicate the exact projection of the data onto the PCs. In a way, a PC is nothi' ... 
+	 cell 53 : b'---\n\nIn the calculations you can see that:\n\n\\begin{eqnarray*}\n\\textrm{Cosine}(\\alpha{x},{y}) & = & \\' ... 
+
+Assignment 1.1 (2.45)/2.75pts 
+Assignment 1.1.1 (1.20)/1.5pts 
+a) empty  -0.30
+Assignment 1.1.2 (1.25)/1.25pts 
+
+Assignment 1.2 (5.50)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (5.00)/5.5pts 
+b) missing important terms from explanation: explain  -0.25
+d) missing important terms from explanation: square  -0.25
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 7.95

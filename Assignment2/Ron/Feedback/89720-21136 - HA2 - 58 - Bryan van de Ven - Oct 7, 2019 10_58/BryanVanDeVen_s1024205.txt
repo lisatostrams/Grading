@@ -1,0 +1,35 @@
+89720-21136
+
+Group: 58
+Submitted: Oct 7, 2019 10_58
+
+Graded by: Ron
+For questions or remarks, please email <R.Hommelsheim@student.ru.nl>
+
+
+Feedback:
+There are 1 unexecuted codecells with code in the source: -0.2 points
+
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 22 : b'When the sample N increases, the shape moves towards N: Frequencies close to 8 increase and frequenc' ... 
+
+2.1 Total: 3.75/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.50/1 pts
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.91/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.45/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.25/0.3 pts
+Did not list (all) means. Missing from output: [4.0 5.0 10.0 7.0 7.0 12.0 13.0 6.0 7.0 10.0]   -0.05
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 7.91

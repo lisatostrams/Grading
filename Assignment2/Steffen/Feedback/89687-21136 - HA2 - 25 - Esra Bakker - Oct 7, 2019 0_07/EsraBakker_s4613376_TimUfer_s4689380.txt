@@ -1,0 +1,38 @@
+89687-21136
+
+Group: 25
+Submitted: Oct 7, 2019 0_07
+
+Graded by: Steffen
+For questions or remarks, please email <S.Ricklin@student.ru.nl>
+
+
+Feedback:
+There are 6 cells that include more plots than titles/labels: -1.00
+Please check the codecells belonging to the following questions:
+	 cell 7 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 11 : > #### 2.2.1a
+>> Load zipdata.mat by using the loadmat function. There are two data sets containing  ... 
+	 cell 15 : > #### 2.2.1c
+>> Visualize the first 10 digits as images. (take a look at the example code) ... 
+	 cell 17 : > #### 2.2.1c (continued)
+>> Next, compute the principal components (PCA) of the data matrix. Now, u ... 
+	 cell 20 : > #### 2.2.1e
+>> Make a 4-by-4 subplot of scatter plots of each possible combination projection onto ... 
+	 cell 22 : > #### 2.2.1f
+>> Make a 3-dimensional scatter plot of the projections onto the first three principal ... 
+
+2.1 Total: 4.50/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 1.00/1 pts
+
+2.2 Total: 3.64/4 pts
+Missing important/suspicious terms from explanation: [separate]  -0.36
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 8.64

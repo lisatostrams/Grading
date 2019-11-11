@@ -1,0 +1,43 @@
+89687-21136
+
+Group: 25
+Submitted: Oct 6, 2019 22_52
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+There are 6 cells that include more plots than titles/labels: -1.00
+Please check the codecells belonging to the following questions:
+	 cell 5 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 12 : > #### 2.2.1c
+>> Visualize the first 10 digits as images. (take a look at the example code) ... 
+	 cell 14 : > #### 2.2.1c (continued)
+>> Next, compute the principal components (PCA) of the data matrix. Now, u ... 
+	 cell 17 : > #### 2.2.1e
+>> Make a 4-by-4 subplot of scatter plots of each possible combination projection onto ... 
+	 cell 19 : > #### 2.2.1f
+>> Make a 3-dimensional scatter plot of the projections onto the first three principal ... 
+
+2.1 Total: 4.50/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 1.00/1 pts
+
+2.2 Total: 2.18/4 pts
+Missing suspicious commands from code: [np.linalg.svd np.dot Axes3D] -1.09
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.11/1.5 pts
+2.3.1.i: 0.15/0.3 pts
+Missing from output: [5.3]   -0.15
+2.3.1.ii: 0.26/0.3 pts
+Did not list (all) means. Missing from output: [4.0 12.0 4.75 7.25 6.75 9.25 8.75 10.75]   -0.04
+2.3.1.iii: 0.10/0.3 pts
+Missing from output: [1.7 3.4]   -0.20
+
+ <predicted> Grade: 6.79

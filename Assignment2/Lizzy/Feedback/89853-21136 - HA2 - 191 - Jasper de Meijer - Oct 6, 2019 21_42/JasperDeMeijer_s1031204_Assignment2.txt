@@ -1,0 +1,39 @@
+89853-21136
+
+Group: 191
+Submitted: Oct 6, 2019 21_42
+
+Graded by: Lizzy
+For questions or remarks, please email <l.grootjen@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 9 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+There are 4 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 22 : b'----\nWith a sample size 2 we see a nice distribution over the population but when N increases \n\n----' ... 
+	 cell 23 : b'----\nWith a sample size 2 we see a nice distribution over the population but when N increases \n\n----' ... 
+	 cell 24 : b'----\nWith a sample size 2 we see a nice distribution over the population but when N increases \n\n----' ... 
+	 cell 25 : b'----\nWith a sample size 2 we see a nice distribution over the population but when N increases \n\n----' ... 
+
+2.1 Total: 4.00/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.50/1 pts
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.55/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 7.80

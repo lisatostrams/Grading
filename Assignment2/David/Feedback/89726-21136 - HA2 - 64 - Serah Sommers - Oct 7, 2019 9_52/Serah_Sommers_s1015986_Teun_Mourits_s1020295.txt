@@ -1,0 +1,36 @@
+89726-21136
+
+Group: 64
+Submitted: Oct 7, 2019 9_52
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+There are 2 cells that include more plots than titles/labels: -0.50
+Please check the codecells belonging to the following questions:
+	 cell 4 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 7 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 3.58/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.33/1 pts
+Missing suspicious commands from code: [pearsonr] -0.17
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.55/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.30/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.10/0.3 pts
+Missing from output: [1.7 3.4]   -0.20
+
+ <predicted> Grade: 6.93

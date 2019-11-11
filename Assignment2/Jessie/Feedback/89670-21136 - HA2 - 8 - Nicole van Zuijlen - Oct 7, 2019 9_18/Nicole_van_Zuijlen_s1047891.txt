@@ -1,0 +1,49 @@
+89670-21136
+
+Group: 8
+Submitted: Oct 7, 2019 9_18
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+There are 5 cells that include more plots than titles/labels: -1.00
+Please check the codecells belonging to the following questions:
+	 cell 12 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 13 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 14 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 15 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 16 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+There are 2 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 28 : b"----\nv\n\n'''\n- The higher the sample number becomes the less subgroups there will exist\n- The mean wi" ... 
+	 cell 29 : b"----\nv\n\n'''\n- The higher the sample number becomes the less subgroups there will exist\n- The mean wi" ... 
+
+2.1 Total: 4.25/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 1.00/1 pts
+
+2.2 Total: 3.64/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+
+2.3 Total: 1.20/1.5 pts
+2.3.1.i: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 8.09

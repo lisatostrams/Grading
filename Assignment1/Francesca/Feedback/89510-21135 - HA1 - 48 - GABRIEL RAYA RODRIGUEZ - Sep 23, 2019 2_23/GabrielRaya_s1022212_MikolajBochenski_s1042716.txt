@@ -1,0 +1,34 @@
+89510-21135
+
+Group: 48
+Submitted: Sep 23, 2019 2_23
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 48 : The columns of **V** indicate the exact projection of the data onto the PCs. In a way, a PC is nothi ... 
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 62 : b'---\n\n*Answer: Here we verified the scaling and translation impact on similarity measures. We verifie' ... 
+
+Assignment 1.1 (2.45)/2.75pts 
+Assignment 1.1.1 (1.20)/1.5pts 
+a) empty  -0.30
+Assignment 1.1.2 (1.25)/1.25pts 
+
+Assignment 1.2 (5.12)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (4.62)/5.5pts 
+a) missing important terms from explanation: reduc  -0.12
+b) missing important terms from explanation: explain  -0.25
+c) didn't use the following commands (which is very suspicious): np.dot   -0.50
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 8.57

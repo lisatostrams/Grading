@@ -1,0 +1,32 @@
+89689-21136
+
+Group: 27
+Submitted: Oct 4, 2019 11_29
+
+Graded by: Lizzy
+For questions or remarks, please email <l.grootjen@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 21 : b'----\nWhen the sample size N increases, the sample means become a lot less distributed. The histogram' ... 
+
+2.1 Total: 4.08/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.83/1 pts
+Missing important/suspicious terms from explanation: [acidity]  -0.17
+
+2.2 Total: 2.55/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 8.13

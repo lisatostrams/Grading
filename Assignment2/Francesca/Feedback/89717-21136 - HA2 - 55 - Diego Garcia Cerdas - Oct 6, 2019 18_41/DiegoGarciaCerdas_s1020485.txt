@@ -1,0 +1,27 @@
+89717-21136
+
+Group: 55
+Submitted: Oct 6, 2019 18_41
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+
+2.1 Total: 4.25/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 1.00/1 pts
+
+2.2 Total: 2.91/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise]  -0.36
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 8.66

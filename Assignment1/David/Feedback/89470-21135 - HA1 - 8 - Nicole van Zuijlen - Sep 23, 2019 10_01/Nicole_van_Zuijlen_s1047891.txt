@@ -1,0 +1,30 @@
+89470-21135
+
+Group: 8
+Submitted: Sep 23, 2019 10_01
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+
+Assignment 1.1 (1.65)/2.75pts 
+Assignment 1.1.1 (0.60)/1.5pts 
+a) empty  -0.30
+d) incorrect  -0.20
+e) incorrect  -0.20
+g) incorrect  -0.20
+Assignment 1.1.2 (1.05)/1.25pts 
+c) incorrect  -0.20
+
+Assignment 1.2 (5.30)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (4.80)/5.5pts 
+b) missing important terms from explanation: explain  -0.25
+d) missing important terms from explanation: eigenvector  -0.25
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 8.20

@@ -1,0 +1,15 @@
+89912-21137
+
+Group: 50
+Submitted: Oct 21, 2019 10_50
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 30 : b'#### 3.3.6\n(1 pts) Create the 2x2 table (or array, or list, or dataframe..) of wrong and correct cla' ... 
+

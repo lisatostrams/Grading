@@ -1,0 +1,32 @@
+89961-21137
+
+Group: 99
+Submitted: Oct 21, 2019 3_16
+
+Graded by: Steffen
+For questions or remarks, please email <S.Ricklin@student.ru.nl>
+
+
+Feedback:
+There are 1 unexecuted codecells with code in the source: -0.2 points
+
+
+3.1 Total: 3.42/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.42/0.50 pts
+Missing term from explanation <total sulfur dioxide> -0.08
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 2.00/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 0.00/1.00 pts
+Missing table/incorrect value in table -0.50
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 8.72

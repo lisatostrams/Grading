@@ -1,0 +1,32 @@
+90060-21137
+
+Group: 198
+Submitted: Oct 19, 2019 15_43
+
+Graded by: Lars
+For questions or remarks, please email <L.vanRhijn@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 23 : b' ## 3.3 ROC curves, AUC scores, and the sign test\n\nIn this exercise we will use ROC curves and the s' ... 
+
+3.1 Total: 3.50/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.50/0.50 pts
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 2.88/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 0.88/1.00 pts
+Missing table/incorrect value in table -0.50
+
+ <predicted> Grade: 9.88

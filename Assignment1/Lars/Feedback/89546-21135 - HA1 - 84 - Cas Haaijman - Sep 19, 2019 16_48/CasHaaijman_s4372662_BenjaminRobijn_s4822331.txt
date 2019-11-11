@@ -1,0 +1,33 @@
+89546-21135
+
+Group: 84
+Submitted: Sep 19, 2019 16_48
+
+Graded by: Lars
+For questions or remarks, please email <L.vanRhijn@student.ru.nl>
+
+
+Feedback:
+There are 3 cells that include more plots than titles/labels: -0.75
+Please check the codecells belonging to the following questions:
+	 cell 30 : > b. (0.3 points) The data resides in what can be seen as an 8-dimensional space. Each dimension (co ... 
+	 cell 36 : In practice, applying PCA comes down to a series of matrix operations, this is useful, as matrix ope ... 
+	 cell 40 : PCA attempts to explain as much of the variance in data with as few PCs as possible. The variance ex ... 
+
+Assignment 1.1 (2.25)/2.75pts 
+Assignment 1.1.1 (1.20)/1.5pts 
+a) empty  -0.30
+Assignment 1.1.2 (1.05)/1.25pts 
+c) incorrect  -0.20
+
+Assignment 1.2 (4.92)/6pts 
+Assignment 1.2.1 (0.50)/0.5pts 
+Assignment 1.2.2 (4.42)/5.5pts 
+a) missing important terms from explanation: variance  -0.12
+b) missing important terms from explanation: explain  -0.25
+c) didn't use the following commands (which is very suspicious): np.dot   -0.50
+
+Assignment 1.3 (1.25)/1.25pts 
+Assignment 1.3.1 (1.25)/1.25pts 
+
+Predicted Grade: 7.67

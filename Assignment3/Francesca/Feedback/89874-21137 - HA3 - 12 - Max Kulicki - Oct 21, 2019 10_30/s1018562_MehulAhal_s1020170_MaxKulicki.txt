@@ -1,0 +1,29 @@
+89874-21137
+
+Group: 12
+Submitted: Oct 21, 2019 10_30
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+
+3.1 Total: 3.25/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.25/0.50 pts
+Missing term from explanation <total sulfur dioxide chlorides sulphates> -0.25
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 2.88/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 0.88/1.00 pts
+Missing table/incorrect value in table -0.50
+
+ <predicted> Grade: 9.62

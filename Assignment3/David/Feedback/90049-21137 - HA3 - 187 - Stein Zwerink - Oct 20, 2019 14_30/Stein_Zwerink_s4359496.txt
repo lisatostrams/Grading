@@ -1,0 +1,13 @@
+90049-21137
+
+Group: 187
+Submitted: Oct 20, 2019 14_30
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+There are 2 unexecuted codecells with code in the source: -0.4 points
+
+

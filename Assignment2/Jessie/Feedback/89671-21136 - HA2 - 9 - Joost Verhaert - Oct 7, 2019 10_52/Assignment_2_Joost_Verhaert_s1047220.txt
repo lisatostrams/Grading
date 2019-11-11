@@ -1,0 +1,35 @@
+89671-21136
+
+Group: 9
+Submitted: Oct 7, 2019 10_52
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+As mentioned in the assignment, we will now subtract points for handing in the notebook incorrectly. You did not comply with the guidelines at the beginning of the notebook: [handed in an archive, requires unzip] -1
+
+There are 2 cells that include more plots than titles/labels: -0.50
+Please check the codecells belonging to the following questions:
+	 cell 5 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 4.33/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.83/1 pts
+Missing important/suspicious terms from explanation: [acidity]  -0.17
+
+2.2 Total: 2.91/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 7.24

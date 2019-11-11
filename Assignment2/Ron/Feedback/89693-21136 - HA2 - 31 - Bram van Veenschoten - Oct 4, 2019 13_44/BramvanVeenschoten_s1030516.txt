@@ -1,0 +1,36 @@
+89693-21136
+
+Group: 31
+Submitted: Oct 4, 2019 13_44
+
+Graded by: Ron
+For questions or remarks, please email <R.Hommelsheim@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 3.42/4.5 pts
+2.1.1.a 2.25/3 pts
+<possibly> Not enough histograms/boxplots -0.75
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.67/1 pts
+Missing suspicious commands from code: [pearsonr] -0.17
+Missing important/suspicious terms from explanation: [acidity]  -0.17
+
+2.2 Total: 2.91/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.25/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.26/0.3 pts
+Did not list (all) means. Missing from output: [4.75 7.25 6.0 7.75 6.75 9.25 9.75 8.75 10.75]   -0.04
+2.3.1.iii: 0.10/0.3 pts
+Missing from output: [1.7 3.4]   -0.20
+
+ <predicted> Grade: 7.33

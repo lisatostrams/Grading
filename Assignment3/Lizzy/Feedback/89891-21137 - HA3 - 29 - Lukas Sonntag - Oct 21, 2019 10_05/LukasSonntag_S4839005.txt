@@ -1,0 +1,40 @@
+89891-21137
+
+Group: 29
+Submitted: Oct 21, 2019 10_05
+
+Graded by: Lizzy
+For questions or remarks, please email <l.grootjen@student.ru.nl>
+
+
+Feedback:
+
+There are 3 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 26 : b'#### 3.3.4\n(0.5 pts) Compute the AUC scores (area under the curve) of both classifiers using the for' ... 
+	 cell 29 : b'\n#### 3.3.5\n(0.25 pts) Using a threshold of 0.5, translate the probability scores to predicted class' ... 
+	 cell 31 : b'#### 3.3.6\n(1 pts) Create the 2x2 table (or array, or list, or dataframe..) of wrong and correct cla' ... 
+
+3.1 Total: 2.25/3.50 pts
+3.1.1 0.00/0.50 pts
+Missing class names/attribute names -0.50
+3.1.2 1.00/1.50 pts
+Missing class names/attribute names from tree -0.50
+3.1.3 0.25/0.50 pts
+Missing term from explanation <total sulfur dioxide chlorides sulphates> -0.25
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 1.25/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.00/0.50 pts
+Missing/incorrect value in answer -0.50
+3.3.5 0.00/0.25 pts
+Missing/incorrect value in answer -0.25
+3.3.6 0.00/1.00 pts
+Missing table/incorrect value in table -0.50
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 7.00

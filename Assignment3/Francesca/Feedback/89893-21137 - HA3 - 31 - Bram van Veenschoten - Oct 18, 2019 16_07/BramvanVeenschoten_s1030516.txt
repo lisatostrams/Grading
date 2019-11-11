@@ -1,0 +1,35 @@
+89893-21137
+
+Group: 31
+Submitted: Oct 18, 2019 16_07
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 25 : b'#### 3.3.4\n(0.5 pts) Compute the AUC scores (area under the curve) of both classifiers using the for' ... 
+
+3.1 Total: 3.42/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.42/0.50 pts
+Missing term from explanation <chlorides> -0.08
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 1.75/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 0.75/1.00 pts
+Missing command from code <plot> -0.25
+3.3.4 0.00/0.50 pts
+Missing/incorrect value in answer -0.50
+3.3.5 0.25/0.25 pts
+3.3.6 0.50/1.00 pts
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 8.67

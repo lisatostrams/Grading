@@ -1,0 +1,34 @@
+89957-21137
+
+Group: 95
+Submitted: Oct 17, 2019 12_37
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+
+There are 2 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 42 : b'So your observations are very unlikely if *zero_hypothesis* is right. By statistical theory, you can' ... 
+	 cell 43 : b'So your observations are very unlikely if *zero_hypothesis* is right. By statistical theory, you can' ... 
+
+3.1 Total: 3.50/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.50/0.50 pts
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 2.25/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 0.25/1.00 pts
+Missing table/incorrect value in table -0.50
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 9.25

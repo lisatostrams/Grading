@@ -1,0 +1,29 @@
+89884-21137
+
+Group: 22
+Submitted: Oct 17, 2019 12_20
+
+Graded by: Elena
+For questions or remarks, please email <E.Kreis@student.ru.nl>
+
+
+Feedback:
+
+3.1 Total: 3.33/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.33/0.50 pts
+Missing term from explanation <chlorides sulphates> -0.17
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 2.50/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.50/0.50 pts
+3.3.5 0.25/0.25 pts
+3.3.6 0.50/1.00 pts
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 9.33

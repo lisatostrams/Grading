@@ -1,0 +1,15 @@
+89953-21137
+
+Group: 91
+Submitted: Oct 20, 2019 16_11
+
+Graded by: Ron
+For questions or remarks, please email <R.Hommelsheim@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 34 : #### 3.3.6
+(1 pts) Create the 2x2 table (or array, or list, or dataframe..) of wrong and correct cla ... 
+

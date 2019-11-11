@@ -1,0 +1,38 @@
+89757-21136
+
+Group: 95
+Submitted: Oct 6, 2019 22_58
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 22 : b'----\nAs the sample size increases, the shape of the sample means distribution becomes wider and shor' ... 
+
+2.1 Total: 3.75/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.50/1 pts
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.55/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.20/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+
+ <predicted> Grade: 7.25

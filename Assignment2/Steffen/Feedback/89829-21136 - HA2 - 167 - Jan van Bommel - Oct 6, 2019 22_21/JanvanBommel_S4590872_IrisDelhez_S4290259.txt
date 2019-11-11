@@ -1,0 +1,32 @@
+89829-21136
+
+Group: 167
+Submitted: Oct 6, 2019 22_21
+
+Graded by: Steffen
+For questions or remarks, please email <S.Ricklin@student.ru.nl>
+
+
+Feedback:
+
+There are 1 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 21 : b'----\nThe higher N, the higher the mean\n\n----' ... 
+
+2.1 Total: 3.92/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.67/1 pts
+Missing important/suspicious terms from explanation: [acidity density]  -0.33
+
+2.2 Total: 2.18/4 pts
+Missing suspicious commands from code: [np.linalg.svd np.dot Axes3D] -1.09
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 7.60

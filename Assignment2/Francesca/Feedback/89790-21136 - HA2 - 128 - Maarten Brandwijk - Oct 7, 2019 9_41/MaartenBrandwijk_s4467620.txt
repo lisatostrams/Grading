@@ -1,0 +1,37 @@
+89790-21136
+
+Group: 128
+Submitted: Oct 7, 2019 9_41
+
+Graded by: Francesca
+For questions or remarks, please email <F.Drummer@student.ru.nl>
+
+
+Feedback:
+There are 1 unexecuted codecells with code in the source: -0.2 points
+
+There are 2 cells that include more plots than titles/labels: -0.50
+Please check the codecells belonging to the following questions:
+	 cell 5 : > 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y ... 
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+2.1 Total: 3.25/4.5 pts
+2.1.1.a 2.25/3 pts
+<possibly> Not enough histograms/boxplots -0.75
+2.1.1.b 0.50/0.5 pts
+2.1.2 0.50/1 pts
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.55/4 pts
+Missing suspicious commands from code: [np.dot Axes3D] -0.73
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.20/1.5 pts
+2.3.1.i: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 6.30

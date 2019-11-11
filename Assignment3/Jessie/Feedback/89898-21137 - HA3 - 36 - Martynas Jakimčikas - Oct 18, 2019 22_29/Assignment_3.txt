@@ -1,0 +1,31 @@
+89898-21137
+
+Group: 36
+Submitted: Oct 18, 2019 22_29
+
+Graded by: Jessie
+For questions or remarks, please email <J.vanSchijndel@student.ru.nl>
+
+
+Feedback:
+
+3.1 Total: 3.42/3.50 pts
+3.1.1 0.50/0.50 pts
+3.1.2 1.50/1.50 pts
+3.1.3 0.42/0.50 pts
+Missing term from explanation <total sulfur dioxide> -0.08
+3.1.4 1.00/1.00 pts
+3.2 Total: 3.50/3.50 pts
+3.2.1 2.00/2.00 pts
+3.2.2 1.50/1.50 pts
+3.3 Total: 1.62/3.00 pts
+3.3.1 0.25/0.25 pts
+3.3.3 1.00/1.00 pts
+3.3.4 0.00/0.50 pts
+Missing/incorrect value in answer -0.50
+3.3.5 0.25/0.25 pts
+3.3.6 0.12/1.00 pts
+Missing table/incorrect value in table -0.50
+Missing pvalue/incorrect pvalue -0.50
+
+ <predicted> Grade: 8.54

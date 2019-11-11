@@ -1,0 +1,44 @@
+89857-21136
+
+Group: 195
+Submitted: Oct 7, 2019 10_36
+
+Graded by: Elena
+For questions or remarks, please email <E.Kreis@student.ru.nl>
+
+
+Feedback:
+There are 4 unexecuted codecells with code in the source: -0.8 points
+
+There are 1 cells that include more plots than titles/labels: -0.25
+Please check the codecells belonging to the following questions:
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+
+There are 2 empty cells. 
+Please check the cells belonging to the following questions:
+	 cell 5 : b'> 2.1.2 (1pt) Make scatter plots between attributes and wine quality as rated by human judges. Can y' ... 
+	 cell 19 : b'> v. (0.3pts) Plot the distribution of the population and the distributions of both sample means usi' ... 
+
+2.1 Total: 3.42/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.25/0.5 pts
+Missing important/suspicious terms from explanation: [mean]  -0.25
+2.1.2 0.17/1 pts
+Missing suspicious commands from code: [scatter pearsonr] -0.33
+Missing important/suspicious terms from explanation: [alcohol acidity density]  -0.50
+
+2.2 Total: 2.18/4 pts
+Missing suspicious commands from code: [np.linalg.svd np.dot Axes3D] -1.09
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 0.75/1.5 pts
+2.3.1.i: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+2.3.1.ii: 0.15/0.3 pts
+Did not list (all) means. Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.15
+2.3.1.iii: 0.00/0.3 pts
+Missing from output: [Output empty. If code is correct, only deduct points for unexecuted cell]   -0.30
+
+ <predicted> Grade: 5.30

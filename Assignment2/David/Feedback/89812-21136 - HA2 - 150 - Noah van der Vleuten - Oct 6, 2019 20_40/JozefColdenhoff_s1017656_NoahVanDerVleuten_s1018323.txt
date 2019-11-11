@@ -1,0 +1,35 @@
+89812-21136
+
+Group: 150
+Submitted: Oct 6, 2019 20_40
+
+Graded by: David
+For questions or remarks, please email <h.leeftink@student.ru.nl>
+
+
+Feedback:
+There are 3 cells that include more plots than titles/labels: -0.75
+Please check the codecells belonging to the following questions:
+	 cell 8 : ## 2.2 Visualizing the handwritten digits (4 points)
+
+In this part of the exercise we will analyse t ... 
+	 cell 10 : ----
+**Answer**: When we compare the original data with the reconstructed data we can see that the n ... 
+	 cell 11 : ----
+**Answer**: When we compare the original data with the reconstructed data we can see that the n ... 
+
+2.1 Total: 4.50/4.5 pts
+2.1.1.a 3.00/3 pts
+2.1.1.b 0.50/0.5 pts
+2.1.2 1.00/1 pts
+
+2.2 Total: 2.91/4 pts
+Missing suspicious commands from code: [Axes3D] -0.36
+Missing important/suspicious terms from explanation: [noise separate]  -0.73
+
+2.3 Total: 1.50/1.5 pts
+2.3.1.i: 0.30/0.3 pts
+2.3.1.ii: 0.30/0.3 pts
+2.3.1.iii: 0.30/0.3 pts
+
+ <predicted> Grade: 8.16
